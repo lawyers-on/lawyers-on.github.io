@@ -65,7 +65,7 @@ J.D./M.B.A. Candidate at The George Washington University
 
 [@benbalter](http://twitter.com/benbalter/)
 
-[ben.balter.com](http://ben.balter/com)
+[ben.balter.com](http://ben.balter.com)
 
 ### [Alan deLevie](https://github.com/adelevie)
 
