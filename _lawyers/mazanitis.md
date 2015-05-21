@@ -1,6 +1,6 @@
 ---
 name: Nicole Mazanitis
-github: 3dip
+github: mazanitis
 bar: New York and Massachusetts
 links:
   Firm Website: http://curtis.com/sitecontent.cfm?pageid=8&itemid=353
